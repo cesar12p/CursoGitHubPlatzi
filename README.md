@@ -1,0 +1,2 @@
+# CursoGitHubPlatzi
+Repo de practica
